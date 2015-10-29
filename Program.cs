@@ -10,7 +10,7 @@ namespace HelloWorld2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dave's a Wanker"); //Capitalisation is important, Console, not console
+            Console.WriteLine("Dave's a Wanker");
             Console.ReadLine();
         }
     }
